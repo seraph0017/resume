@@ -1,4 +1,7 @@
 # 田煜的个人简历
+===============
+
+## 基本信息
 
 * 介绍：pythoner.org网站作者，正在努力成为一名 *Full Stack Developer*
 * 地点：上海
@@ -6,6 +9,9 @@
 * GitHub：[https://github.com/tianyu0915](https://github.com/tianyu0915)
 * 微博：[http://http://weibo.com/tyminiblog2010/](http://weibo.com/tyminiblog2010/)
 * SOF：[http://stackoverflow.com/users/2614072/yohn](http://stackoverflow.com/users/2614072/yohn)
+* 应聘职位：
+* 期望薪资：15000
+
 
 ## 工作经验
 
