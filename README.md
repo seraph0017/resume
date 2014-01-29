@@ -27,42 +27,53 @@
 
 ## 项目经验
 
-### 1.  数据007(网站)
+### 1. HappyGolf(iPhone APP，私人项目)
+* 时间：2013.12 - 现在
+* 描述：移动应用，负责后端RESTFull接口的开发测试，服务器端的部署与维护工作
+* 链接：[http://www.data007.com](http://www.data007.com)
+
+
+### 2.  数据007(网站)
 * 时间：2013.10 - 现在
 * 描述：基于大数据的、面向淘宝卖家的数据分析网站。主要负责网站功能开发、部署维护 
 * 链接：[http://www.data007.com](http://www.data007.com)
 
-### 2.  TODOO.US(个人项目)
-* 时间：2013.12 
+### 3.  TODOO.US(个人项目)
+* 时间：2013.12  - 2014.1
 * 描述：小团队任务管理协作工具，第一次使用Angularjs做前端开发，用django实现后端RESTFull API
 * 链接：[http://www.data007.com](http://www.data007.com)
 
-### 3. favbuy.com(网站&移动APP)
-* 时间：2013.10 - 2013.2
+### 4. dealpick.com
+* 时间：2013.3 - 2013.6
+* 描述：面向欧美用户的限时特卖聚合网站
+* 链接：[http://www.dealpick.com](http://www.dealpick.com/)
+
+### 5. favbuy.com(网站&移动APP)
+* 时间：2012.10 - 2013.3
 * 描述：面向欧美用户的奢侈品导购网站。主要负责网站功能开发、移动APP服务器端开发，参与了部分爬虫的开发 
 * 链接：[http://www.favbuy.com](http://www.favbuy.com/)
 
-### 4. 虎扑世界(网页游戏)
+### 6. 虎扑世界(网页游戏)
 * 时间：2011.10 ~ 2012.10
 * 描述：角色扮演类网页游戏。主要负责背包、物品等模块的功能开发于测试、GM管理后台开发 
 * 链接：[http://world.hupu.com/](http://world.hupu.com/)
 
-### 5. PYTHON开发者社区(个人项目)
+### 7. PYTHON开发者社区(个人项目)
 * 时间：2011.6 - 2011.9
 * 描述：基于Django 1.4.2 开发的技术社区网站，代码已开源 查看
 * 链接：[http://pythoner.org](http://pythoner.org/)
 
-### 6. DjangoCaptcha(个人项目)
+### 8. DjangoCaptcha(个人项目)
 * 时间：2013.6 - 2013.7
 * 描述：适用于Django的验证码模块 
 * 链接：[https://github.com/tianyu0915/DjangoCaptcha](https://github.com/tianyu0915/DjangoCaptcha)
 
-### 7. TODOO.US(私人项目)
+### 9. TODOO.US(私人项目)
 * 时间：2013.11 - 2013.12
 * 描述：轻量级的适合小团队的任务管理工具，第一次在前端中采用了Angularjs，后端由django实现RESTFull接口 
 * 链接：[https://todoo.us/](https://todoo.us/)
 
-### 8. MiniBlog(私人项目)
+### 10. MiniBlog(私人项目)
 * 时间：2009.1 - 2010.5
 * 描述：基于ThinkPHP的单用户个人微博系统，含手机版 
 * 链接：[https://github.com/tianyu0915/miniblog](https://github.com/tianyu0915/miniblog)
