@@ -3,8 +3,11 @@
 
 ## 基本信息
 
-* 介绍：pythoner.org网站作者，正在努力成为一名 *Full Stack Developer*
+* 性别：男
+* 年龄：24
 * 地点：上海
+* 应聘职位：
+* 期望薪资：14,000
 * 爱好：python、摄影、阅读
 * GitHub：[https://github.com/tianyu0915](https://github.com/tianyu0915)
 * 微博：[http://http://weibo.com/tyminiblog2010/](http://weibo.com/tyminiblog2010/)
@@ -17,7 +20,7 @@
 * 时间：2012.10 - 现在
 * 内容：主要负责公司网站项目、移动APP项目的服务器端开发部署和维护
 
-### 2. 虎扑体育网
+### 2. 虎扑体育网(上海虎扑文化传播有限公司)
 * 职位：Python开发工程师
 * 时间：2011.10 - 2012.10
 * 内容：参与网页游戏《虎扑世界》服务器端开发
@@ -25,14 +28,14 @@
 
 ## 项目经验
 
-### 1. HappyGolf(iPhone APP，私人项目)
-* 时间：2013.12 - 现在
-* 描述：移动应用，负责后端RESTFull接口的开发测试，服务器端的部署与维护工作
-* 链接：[http://www.data007.com](http://www.data007.com)
-
-### 2.  Data007(网站)
+### 1.  Data007(网站)
 * 时间：2013.10 - 现在
 * 描述：基于大数据的、面向淘宝卖家的数据挖掘与分析网站。主要负责网站功能开发、部署维护 
+* 链接：[http://www.data007.com](http://www.data007.com)
+
+### 2. HappyGolf(iPhone APP，私人项目)
+* 时间：2013.12 - 现在
+* 描述：移动应用，负责后端RESTFull接口的开发测试，服务器端的部署与维护工作
 * 链接：[http://www.data007.com](http://www.data007.com)
 
 ### 3.  TODOO.US(私人项目)
