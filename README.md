@@ -36,9 +36,9 @@
 ### 2. HappyGolf(iPhone APP，私人项目)
 * 时间：2013.12 - 现在
 * 描述：移动应用，负责后端RESTFull接口的开发测试，服务器端的部署与维护工作
-* 链接：[http://www.data007.com](http://www.data007.com)
+* 链接：[http://hpgolf.t-y.me/_doc/](http://hpgolf.t-y.me/_doc/)
 
-### 3.  TODOO.US(私人项目)
+### 3. TODOO.US(私人项目)
 * 时间：2013.12  - 2014.1
 * 描述：小团队任务管理协作工具，第一次使用Angularjs做前端开发，用django实现后端RESTFull API
 * 链接：[http://www.data007.com](http://www.data007.com)
@@ -79,16 +79,21 @@
 * 链接：[https://github.com/tianyu0915/miniblog](https://github.com/tianyu0915/miniblog)
 
 ## 技术栈
-* Angularjs (2013.12)
-* Elasticsearch (2012.12)
-* Django (2011.2 ~ 现在)
-* Python (2011.1 ~ 现在)
-* Linux/Uniux (2011 ~ 现在)
-* MySql/Sql (2011 ~ 现在)
-* PHP (2009.9 ~ 2012.12)
-* ASP (2008)
-* CSS (2007 ~ 现在)
-* HMLT (2006 ~ 现在)
+
+|  时间         | 技能             | 熟悉程度  |
+| ------------- |:-------------:   | -----:    |
+|  2013.12      | Angularjs        | ★ ★ ☆ ☆ ☆ |
+|  2012.12      | Elasticsearch    | ★ ★ ☆ ☆ ☆
+|  2011.2       | Django           | ★ ★ ★ ★ ☆
+|  2011.1       | Python           | ★ ★ ★ ☆ ☆
+|  2011         | Git              | ★ ★ ★ ★ ☆
+|  2011         | MySql/Sql        | ★ ★ ★ ☆ ☆
+|  2011.9       | VIM              | ★ ★ ★ ★ ☆
+|  2010.9       | Linux/Uniux      | ★ ★ ★ ☆ ☆ 
+|  2009         | PHP              | ★ ★ ☆ ☆ ☆
+|  2008         | ASP              | ★ ★ ☆ ☆ ☆
+|  2007         | CSS              | ★ ★ ★ ☆ ☆
+|  2006         | HMLT             | ★ ★ ★ ☆ ☆
 
 ## 联系方式
 
