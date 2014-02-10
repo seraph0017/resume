@@ -40,7 +40,7 @@
 ### 3. TODOO.US(私人项目)
 * 时间：2013.12  - 2014.1
 * 描述：小团队任务管理协作工具，第一次使用Angularjs做前端开发，用django实现后端RESTFull API
-* 链接：[http://www.data007.com](http://www.data007.com)
+* 链接：[https://todoo.us](https://todoo.us)
 
 ### 4. DealPick.com
 * 时间：2013.3 - 2013.6
