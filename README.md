@@ -10,7 +10,6 @@
 * 期望薪资：14,000
 * 爱好：python、摄影、阅读
 * GitHub：[https://github.com/tianyu0915](https://github.com/tianyu0915)
-* 微博：[http://http://weibo.com/tyminiblog2010/](http://weibo.com/tyminiblog2010/)
 * SOF：[http://stackoverflow.com/users/2614072/yohn](http://stackoverflow.com/users/2614072/yohn)
 
 ## 工作经验
@@ -97,6 +96,7 @@
 
 * 手机：15102993376
 * E-mail:tianyu0915@gmail.com
+* 微博：[http://http://weibo.com/tyminiblog2010/](http://weibo.com/tyminiblog2010/)
 
 ## 其它信息
 
