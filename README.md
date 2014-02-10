@@ -58,22 +58,17 @@
 * 描述：角色扮演类网页游戏。主要负责背包、物品等模块的功能开发于测试、GM管理后台开发 
 * 链接：[http://world.hupu.com/](http://world.hupu.com/)
 
-### 7. PYTHON开发者社区(私人项目)
+### 7. PYTHON开发者社区(开源项目)
 * 时间：2011.6 - 2011.9
-* 描述：基于Django 1.4.2 开发的技术社区网站，代码已开源 查看
+* 描述：基于Django 1.4.2 开发的技术社区网站，代码已开源 
 * 链接：[http://pythoner.org](http://pythoner.org/)
 
-### 8. DjangoCaptcha(私人项目)
+### 8. DjangoCaptcha(开源项目)
 * 时间：2013.6 - 2013.7
 * 描述：适用于Django的验证码模块 
 * 链接：[https://github.com/tianyu0915/DjangoCaptcha](https://github.com/tianyu0915/DjangoCaptcha)
 
-### 9. TODOO.US(私人项目)
-* 时间：2013.11 - 2013.12
-* 描述：轻量级的适合小团队的任务管理工具，第一次在前端中采用了Angularjs，后端由django实现RESTFull接口 
-* 链接：[https://todoo.us/](https://todoo.us/)
-
-### 10. MiniBlog(私人项目)
+### 9. MiniBlog(开源项目)
 * 时间：2009.1 - 2010.5
 * 描述：基于ThinkPHP的单用户个人微博系统，含手机版 
 * 链接：[https://github.com/tianyu0915/miniblog](https://github.com/tianyu0915/miniblog)
@@ -82,14 +77,17 @@
 
 |  时间         | 技能             | 熟悉程度  |
 | ------------- |:-------------:   | -----:    |
-|  2013.12      | Angularjs        | ★ ★ ☆ ☆ ☆ |
-|  2012.12      | Elasticsearch    | ★ ★ ☆ ☆ ☆
-|  2011.2       | Django           | ★ ★ ★ ★ ☆
-|  2011.1       | Python           | ★ ★ ★ ☆ ☆
-|  2011         | Git              | ★ ★ ★ ★ ☆
-|  2011         | MySql/Sql        | ★ ★ ★ ☆ ☆
-|  2011.9       | VIM              | ★ ★ ★ ★ ☆
-|  2010.9       | Linux/Uniux      | ★ ★ ★ ☆ ☆ 
+|  2013         | Angularjs        | ★ ★ ☆ ☆ ☆ |
+|  2013         | Elasticsearch    | ★ ★ ★ ☆ ☆
+|  2013         | Flask            | ★ ★ ★ ☆ ☆
+|  2012         | MongoDB          | ★ ★ ★ ☆ ☆
+|  2012         | Git              | ★ ★ ★ ★ ☆
+|  2011         | Django           | ★ ★ ★ ★ ☆
+|  2011         | VIM              | ★ ★ ★ ★ ☆
+|  2011         | Python           | ★ ★ ★ ★ ☆
+|  2010         | MySql/Sql        | ★ ★ ★ ★ ☆
+|  2010         | Linux/Uniux      | ★ ★ ★ ★ ☆ 
+|  2010         | JavaScript       | ★ ★ ☆ ☆ ☆
 |  2009         | PHP              | ★ ★ ☆ ☆ ☆
 |  2008         | ASP              | ★ ★ ☆ ☆ ☆
 |  2007         | CSS              | ★ ★ ★ ☆ ☆
