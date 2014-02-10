@@ -7,7 +7,7 @@
 * 年龄：24
 * 地点：上海
 * 应聘职位：开发工程师
-* 期望薪资：14,000
+* 期望薪资：14,000+
 * 爱好：python、摄影、阅读
 * GitHub：[https://github.com/tianyu0915](https://github.com/tianyu0915)
 * SOF：[http://stackoverflow.com/users/2614072/yohn](http://stackoverflow.com/users/2614072/yohn)
